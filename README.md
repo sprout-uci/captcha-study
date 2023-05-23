@@ -24,6 +24,6 @@ and open the prompted link in browser.
 
 Navigate to `scripts` directory and run necessary analysis script.
 
-`analysis.ipynb` generates Figures 8~19 and conducts the statistical analysis provided in Sections 5.3 through 5.8 in the paper.
+`analysis.ipynb` generates Figures 7~14 in Sections 5.1 through 5.4 and in Appendix D as well as the statistical analysis provided in Sections 5.1 through 5.4 and in Appendix C in the paper.
 
-`abandonment_analysis.ipynb` generates Tables 5~8 in the paper.
+`abandonment_analysis.ipynb` generates Tables 7~10 in Appendix A in the paper.
